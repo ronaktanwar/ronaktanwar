@@ -25,6 +25,6 @@ Here are some of the technologies I work with:
 Feel free to reach out to me through the following channels:
 
 - [LinkedIn](https://www.linkedin.com/in/ronaksaini/)
-- [Personal Portfolio](https:??www.ronaktanwarportfolio.netlify.app)
+- [Personal Portfolio](https://ronaktanwarportfolio.netlify.app)
 
 Thank you for visiting my profile! Happy coding! 🚀
