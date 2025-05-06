@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 
 ## 🌱 About Me
 
-- 🔭 I’m currently working as an SDE Intern at **Orufy Technologies**.
+- 🔭 I’m currently working as an SDE - I at **Orufy Technologies**.
 - 🎓 I pursued my Bachelor's in Technology with **Computer Science** stream from **JECRC University**.
  
 
